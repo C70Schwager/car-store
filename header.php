@@ -19,15 +19,15 @@
     <div class="container-fluid">
         <div class="topnav">
             <a class="active" href="home">Home</a>
+            <a href="index">Index</a>
             <a href="about">About</a>
             <a href="result">Result</a>
         </div>
-    <div class="container">
+    <div class="container-fluid">
         <div class="row">
             <div class="col-sm-6">
-                <img src="fire-flame-flame-132b3b36f994e845693cf2cb49f3d7ce.png" alt="fire-flame-fist" width="200px" height="200px">
-        <div class="row">
             <div class="col-sm-6">
+                <img src="fire-flame-flame-132b3b36f994e845693cf2cb49f3d7ce.png" alt="fire-flame-fist" width="200px" height="300px">
                 <h1>Cyrill's<br>Car-Land</h1>
         </div>
     </div>
