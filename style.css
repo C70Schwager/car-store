@@ -1,5 +1,5 @@
 /* Add a Background color to the Header*/
-header {
+.header {
     background-color: black;
     padding-top: 8px;
     padding-bottom: 20px;
